@@ -1,5 +1,5 @@
 # MedStory
-#This web project is made by
+This web project is made by
 
 Muhammad Rafi Alfarisi
 
