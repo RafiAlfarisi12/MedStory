@@ -1155,59 +1155,57 @@
 			</div>
 		</div>
 		
-        <!-- Footer -->
-        <footer class="text-center text-lg-start bg-light text-muted">
-        <section style="background-color: #4183D7; padding-top: 3px;">
-			<div class="container text-center text-md-start mt-5">
+        <!--Footer.-->
+	<footer class="text-center text-lg-start bg-light text-muted">
+		<section style="background-color: #4183D7; padding-top: 3px;">
+		<div class="container text-center text-md-start mt-5">
 			<div class="row mt-3">
-				<div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-					<!-- Deskripsi -->
-					<h6 class="text-uppercase fw-bold mb-4" style="color: #212121; font-size: large;">MedStory</h6>
-					<p style="color: whitesmoke;">
+			<div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+				<h6 class="text-uppercase fw-bold mb-4" style="color: #212121; font-size: large;">MedStory</h6>
+				<p style="color: whitesmoke;">
 					MedStory merupakan sebuah aplikasi yang menyimpan data riwayat kesehatan setiap kali
 					seseorang berobat. Dilengkapi dengan fitur scan QR, live chat dengan dokter, forum kesehatan,
 					informasi kesehatan, nomor darurat, dan juga pencarian dokter. 
-					</p>
-				</div>
-				<div class="col-md-2 col-lg-2 col-xl-4 mx-auto mb-4">
-					<h6 class="text-uppercase fw-bold mb-4" style="color: #212121; font-size: large;">Kelompok 4</h6>
-					<p style="color: whitesmoke;">
-					<a class="text-reset">Leonardho R. Sitanggang</a>
-					</p>
-					<p style="color: whitesmoke;">
-					<a class="text-reset">Fauzan Reza Ananda</a>
-					</p>
-					<p style="color: whitesmoke;">
+				</p>
+			</div>
+			<div class="col-md-2 col-lg-2 col-xl-4 mx-auto mb-4">
+				<h6 class="text-uppercase fw-bold mb-4" style="color: #212121; font-size: large;">Kelompok 4</h6>
+				<p style="color: whitesmoke;">
 					<a class="text-reset">Muhammad Rafi Alfarisi</a>
-					</p>
-					<p style="color: whitesmoke;">
+				</p>
+				<p style="color: whitesmoke;">
+					<a class="text-reset">Leonardho R. Sitanggang</a>
+				</p>
+				<p style="color: whitesmoke;">
+					<a class="text-reset">Fauzan Reza Ananda</a>
+				</p>
+				<p style="color: whitesmoke;">
 					<a class="text-reset">Muhammad Akmal Fadhlillah</a>
-					</p>
-					<p style="color: whitesmoke;">
-						<a class="text-reset">Ananda Ardian Pratama P.</a>
-					</p>
-				</div>
-				<div class="col-md-3 col-lg-2 col-xl-4 mx-auto mb-4">
-					<h6 class="text-uppercase fw-bold mb-4" style="color: #212121; font-size: large;">NIM</h6>
-					<p style="color: whitesmoke;">
-						<a class="text-reset">1302194041</a>
-					</p>
-					<p style="color: whitesmoke;">
-						<a class="text-reset">1302194003</a>
-					</p>
-					<p style="color: whitesmoke;">
-						<a class="text-reset">1302194024</a>
-					</p>
-					<p style="color: whitesmoke;">
-						<a class="text-reset">1302190103</a>
-					</p>
-					<p style="color: whitesmoke;">
-						<a class="text-reset">1302194049</a>
-					</p>
-          		</div>
-        </section>
-		<div class="text-center p-4" style="background-color: #333333; color: whitesmoke;">1302194041-Leonardho R Sitanggang</div>
-        </footer>
+				</p>
+				<p style="color: whitesmoke;">
+					<a class="text-reset">Ananda Ardian Pratama P.</a>
+				</p>
+			</div>
+			<div class="col-md-3 col-lg-2 col-xl-4 mx-auto mb-4">
+				<h6 class="text-uppercase fw-bold mb-4" style="color: #212121; font-size: large;">NIM</h6>
+				<p style="color: whitesmoke;">
+					<a class="text-reset">1302194024</a>
+				</p>
+				<p style="color: whitesmoke;">
+					<a class="text-reset">1302194041</a>
+				</p>
+				<p style="color: whitesmoke;">
+					<a class="text-reset">1302194003</a>
+				</p>
+				<p style="color: whitesmoke;">
+					<a class="text-reset">1302190103</a>
+				</p>
+				<p style="color: whitesmoke;">
+					<a class="text-reset">1302194049</a>
+				</p>
+			</div>
+		</section>
+	</footer>
 
 		<!-- Zoom location modal -->
 		<?php 

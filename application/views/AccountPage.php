@@ -229,13 +229,13 @@
 			<div class="col-md-2 col-lg-2 col-xl-4 mx-auto mb-4">
 				<h6 class="text-uppercase fw-bold mb-4" style="color: #212121; font-size: large;">Kelompok 4</h6>
 				<p style="color: whitesmoke;">
+					<a class="text-reset">Muhammad Rafi Alfarisi</a>
+				</p>
+				<p style="color: whitesmoke;">
 					<a class="text-reset">Leonardho R. Sitanggang</a>
 				</p>
 				<p style="color: whitesmoke;">
 					<a class="text-reset">Fauzan Reza Ananda</a>
-				</p>
-				<p style="color: whitesmoke;">
-					<a class="text-reset">Muhammad Rafi Alfarisi</a>
 				</p>
 				<p style="color: whitesmoke;">
 					<a class="text-reset">Muhammad Akmal Fadhlillah</a>
@@ -247,13 +247,13 @@
 			<div class="col-md-3 col-lg-2 col-xl-4 mx-auto mb-4">
 				<h6 class="text-uppercase fw-bold mb-4" style="color: #212121; font-size: large;">NIM</h6>
 				<p style="color: whitesmoke;">
+					<a class="text-reset">1302194024</a>
+				</p>
+				<p style="color: whitesmoke;">
 					<a class="text-reset">1302194041</a>
 				</p>
 				<p style="color: whitesmoke;">
 					<a class="text-reset">1302194003</a>
-				</p>
-				<p style="color: whitesmoke;">
-					<a class="text-reset">1302194024</a>
 				</p>
 				<p style="color: whitesmoke;">
 					<a class="text-reset">1302190103</a>
@@ -263,7 +263,6 @@
 				</p>
 			</div>
 		</section>
-		<div class="text-center p-4" style="background-color: #333333; color: whitesmoke;">1302194041-Leonardho R Sitanggang</div>
 	</footer>
 
 	<!-- Sign out Modal -->
